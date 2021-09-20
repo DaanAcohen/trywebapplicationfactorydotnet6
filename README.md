@@ -1,0 +1,1 @@
+# trywebapplicationfactorydotnet6
